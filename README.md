@@ -22,6 +22,7 @@ Uses Student and StudentManager classes to encapsulate data and operations.
 
 
 🛠️ Technologies Used
+
 Python
 OOP (Classes, Methods)
 JSON / CSV

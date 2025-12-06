@@ -3,9 +3,7 @@
 A simple and efficient **Command-Line Student Management System** written in Python using Object-Oriented Programming (OOP).  
 This project lets you add, update, delete, and list student records, and persist data to CSV or JSON files for reuse between runs. Designed as a beginner-friendly project to demonstrate file I/O, OOP design, and basic validation.
 
-> Reference: original repository contents. :contentReference[oaicite:1]{index=1}
 
----
 
 ## Features
 
@@ -17,14 +15,14 @@ This project lets you add, update, delete, and list student records, and persist
 - Object-Oriented design (`Student`, `StudentManager`).
 - Basic input validation and user-friendly prompts.
 
----
+
 
 ## Technologies
 
 - Python 3.8+ (should work on most modern Python interpreters)
 - Standard library: `json`, `csv`, `os`, etc.
 
----
+
 
 ## Getting Started
 
